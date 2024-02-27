@@ -1,53 +1,31 @@
-Privacy Policy
 
-Effective Date: 27/02/2024
+Privacy Policy:
 
-Sapha Thai ("we," "our," or "us") respects your privacy and is committed to protecting it through our compliance with this Privacy Policy.
+We, Sapha Thai, respect your privacy and are committed to protecting any information you provide while using our Tic-Tac-Toe game application. This Privacy Policy outlines how we collect, use, and safeguard any non-personal information gathered during your interactions with our app.
 
-This Privacy Policy describes the types of information we may collect from you or that you may provide when you use the Tic-Tac-Toe mobile application (the "App") and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+Information Collection:
 
-Information We Collect and How We Collect It
+We do not collect any personal information such as names, email addresses, or contact details from users of our Tic-Tac-Toe game.
+Our app may collect non-personal information such as gameplay statistics, device information (e.g., device model, operating system), and anonymous analytics data to improve user experience and app performance.
+Information Usage:
 
-We may collect several types of information from and about users of our App, including:
+Any non-personal information collected is used solely for the purpose of enhancing the functionality and performance of our Tic-Tac-Toe game.
+We do not sell, trade, or share any information collected with third parties for marketing or advertising purposes.
+Data Security:
 
-Information You Provide: We may collect information that you provide directly to us when you use the App. This may include information provided when you create an account, submit feedback or support requests, or communicate with us through the App.
+We employ industry-standard security measures to protect any information collected from unauthorized access, disclosure, alteration, or destruction.
+Our app is designed to minimize the risk of data breaches and ensure the confidentiality of user information.
+Children's Privacy:
 
-Automatically Collected Information: When you use the App, we may automatically collect certain information, such as your device's unique identifier, IP address, device type, operating system, and usage information.
+Our Tic-Tac-Toe game is suitable for users of all ages, including children.
+We do not knowingly collect any personal information from children under the age of 13. If you believe that we have inadvertently collected personal information from a child, please contact us immediately, and we will take steps to delete such information.
+Third-Party Links:
 
-How We Use Your Information
+Our app may contain links to third-party websites or services for additional features or functionalities.
+We are not responsible for the privacy practices or content of third-party websites or services. We encourage users to review the privacy policies of these third parties before providing any personal information.
+Changes to Privacy Policy:
 
-We may use information that we collect about you or that you provide to us, including any personal information:
+We reserve the right to update or modify this Privacy Policy at any time. Any changes to the policy will be reflected on this page, and we encourage users to review it periodically.
+By using our Tic-Tac-Toe game, you consent to the collection and use of non-personal information as outlined in this Privacy Policy. If you have any questions or concerns about our privacy practices, please contact us at [sapha_thai@hotmail.com].
 
-To provide, maintain, and improve the App;
-To respond to your inquiries, feedback, or support requests;
-To detect, prevent, and address technical issues;
-To personalize your experience with the App;
-To communicate with you about updates, promotions, or other announcements related to the App.
-Disclosure of Your Information
-
-We may disclose aggregated information about our users and information that does not identify any individual without restriction. We may disclose personal information that we collect or you provide as described in this Privacy Policy:
-
-To our subsidiaries and affiliates;
-To contractors, service providers, and other third parties we use to support our business;
-To comply with any court order, law, or legal process, including responding to any government or regulatory request;
-To enforce our rights arising from any contracts entered into between you and us.
-Data Security
-
-We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. However, the transmission of information via the internet and mobile platforms is not completely secure, and we cannot guarantee the security of your personal information transmitted through the App.
-
-Children's Privacy
-
-The App is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If you believe we might have any information from or about a child under 13, please contact us at [contact@example.com].
-
-Changes to Our Privacy Policy
-
-We may update our Privacy Policy from time to time. If we make material changes to how we treat our users' personal information, we will post the updated Privacy Policy on this page.
-
-Contact Information
-
-If you have any questions, comments, or concerns about this Privacy Policy or our privacy practices, you may contact us at:
-
-Sapha Thai
-Email: [sapha_thai@hotmail.com]
-
-Please note that this is a sample privacy policy and should be customized to fit the specific practices and policies of your app and company. Additionally, consider consulting with a legal professional to ensure compliance with applicable privacy laws and regulations.
+Last updated: 27/02/2024
